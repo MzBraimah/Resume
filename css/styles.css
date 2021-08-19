@@ -1,0 +1,23 @@
+
+}
+body{position: relative;
+  background-color: #D5D8DC;
+}
+table{
+  width: 700px; height: 800px;
+}
+.td1{
+  width: 240px;background-color: #1c2833; color: white; padding: 20px;
+}
+.td2{
+  width: 500px;background-color: #E8E8E8;
+}
+img{width: 150px; height: 150px;
+
+}
+.logo{
+width:50px;
+height: 30px;
+position: absolute;
+margin-top: : 20px;
+}
